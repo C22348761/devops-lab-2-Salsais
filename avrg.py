@@ -9,7 +9,7 @@ for i in a:
     avrg += int(i)
 
 avrg /= len(a)
-
+print("Updated")
 print(avrg)
 
 
